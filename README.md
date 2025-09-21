@@ -7,6 +7,8 @@ Welcome to the LazyGames repository!
 ## 🎮🕹️ Whack-a-Cock:The Game
 This is a fun and simple take on the classic arcade game, "Whack-a-Mole." The goal is to whack as many cocks as you can before time runs out! It’s a work in progress, so feel free to watch me make some questionable decisions along the way.
 
+![Gameplay Screenshot](assets/Gameplay.png)
+
 ## 🚀 Getting Started
 
 - **1. Clone the repository:**: git clone https://github.com/radaxsumit/LazyGames.git
