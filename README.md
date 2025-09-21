@@ -30,7 +30,7 @@ Controls: Click on the cocks with your mouse to increase your score.
 
 Goal: Get the highest score possible before the timer runs out!
 
-🔗[Play NowGo](https://YOUR_USERNAME.github.io/whack-a-mole-game/) and have fun! 🙂
+🔗[Play NowGo]((https://github.com/radaxsumit/LazyGames/tree/main/MoleGame)) and have fun! 🙂
 Click the link below to play the game directly in your browser.
 
 🔨 Built With
