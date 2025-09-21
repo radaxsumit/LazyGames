@@ -10,10 +10,10 @@ This is a fun and simple take on the classic arcade game, "Whack-a-Mole." The go
 ## 🚀 Getting Started
 
 - **1. Clone the repository:**: git clone https://github.com/radaxsumit/LazyGames.git
-- **2. Navigate to the game directory:**: cd LazyGames/MoleGame
+- **2. Navigate to the game directory:** cd LazyGames/MoleGame
 - **3. Open the main game file (e.g., index.html) in your favorite web browser.**
 
-## Play
+## ▶️ Play
 Go [play](https://github.com/radaxsumit/LazyGames.git) and have fun! 🙂
 
 ##🔨 Built With
@@ -21,7 +21,9 @@ Go [play](https://github.com/radaxsumit/LazyGames.git) and have fun! 🙂
 - CSS - For styling and making things pretty.
 - JavaScript - For game logic and interactivity.
 
-##🤝 Contributing
+
+## 🤝 Contributing
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - 1. Fork the Project
